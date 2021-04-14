@@ -1,4 +1,3 @@
-import { FaceRounded } from '@material-ui/icons';
 import { useState } from 'react'
 import { useQuery } from 'react-query'
 //Components
